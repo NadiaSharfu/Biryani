@@ -1,0 +1,29 @@
+        body {
+            background-color: LemonChiffon;
+        }
+        h1{
+            color:DarkSlateGray;
+            font-size: 37px;
+        }
+        p {
+            color:rgb(53, 36, 0);
+        }
+        /*This is the way i can comment */
+        img:hover{
+            background-color: gold;
+        }
+        .chicken {
+            background-color: azure;
+        }
+        .rice{
+            background-color: antiquewhite;
+        }
+        #heading{
+            color:brown;
+
+        }
+        /*the main difference is in id and class is class can be multiple by a single name like all can be defined by the class biryani
+        but the id can be one in a single page cant be more than one by the same name*/
+        .circular{
+            border-radius: 100%;
+        }
